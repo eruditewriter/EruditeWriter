@@ -1,2 +1,2 @@
 # EruditeWriter
-C# Writer's Application prototype allowing management of MS Word as an outliner or "Scrivener" lite
+A "beta" software program that allows a user to use all the power of MS Word's word processing but in a non-linear way. This means you can take any type of word processing document (research paper, novel, thesis, business report) and break it into sections and edit them in the order you want to. After you've completed writing your manuscript you can order the sections and combine them into one.
